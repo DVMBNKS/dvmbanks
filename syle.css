@@ -1,0 +1,125 @@
+@import url('https://fonts.cdnfonts.com/css/arcade-classic');
+@import url('https://fonts.cdnfonts.com/css/arcade');
+
+p {
+  font-family: Helvetica;
+
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+h1 {
+  color: white;
+  font-family: 'Courier New', Courier, monospace
+}
+
+model-viewer {
+  width: 1000px;
+  height: 1000px;
+  position: left;
+  overflow: auto;
+  float: left;
+
+
+}
+
+p b {
+  font-family: 'ArcadeClassic', sans-serif;
+  position: right;
+  font-size: 50px;
+  color: white
+}
+
+h2 {
+  font-family: 'ArcadeClassic', sans-serif;
+  color: rgb(255, 255, 255);
+  top: 50%;
+  font-size: 120px;
+  position: center;
+}
+
+h3 {
+  font-family: 'ArcadeClassic', sans-serif;
+  color: white;
+}
+
+h4 {
+  font-family: 'Arcade Normal', sans-serif;
+  color: rgb(0, 128, 145);
+  font-size: 15px;
+  overflow-wrap: normal;
+}
+
+center {
+  overflow: hidden;
+}
+
+#wrapper {
+  display: flex;
+  border: 1px solid black;
+}
+
+#first {
+  border: 10px solid rgb(0, 0, 0);
+}
+
+#second {
+  overflow-wrap: anywhere;
+}
+
+p {
+  font-family: 'Arcade Normal', sans-serif;
+  color: rgb(0, 145, 60);
+  font-size: 15px;
+}
+
+.References {
+  color: red;
+}
+
+h5 {
+  font-family: 'Arcade Normal', sans-serif;
+  font-size: 5px;
+}
+
+h6 {
+  font-family: 'Arcade Normal', sans-serif;
+  font-size: 15px;
+  color: rgb(116, 24, 24);
+
+}
+
+h7 {
+  font-family: 'Arcade Normal', sans-serif;
+  font-size: 15px;
+  color: rgb(70, 45, 182);
+
+}
+
+h8 {
+  font-family: 'Arcade Normal', sans-serif;
+  font-size: 15px;
+  color: rgb(139, 45, 182);
+}
+
+h9 {
+  font-family: 'Arcade Normal', sans-serif;
+  font-size: 15px;
+  color: rgb(130, 182, 45);
+}
